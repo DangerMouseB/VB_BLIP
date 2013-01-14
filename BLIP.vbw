@@ -1,13 +1,13 @@
 cDLL_DummyInit = 0, 0, 0, 0, C
-mDB_SerialiseVariant = 88, 116, 829, 629, 
+mDB_BLIP = 88, 116, 829, 629, Z
 mDLL_Main = 110, 145, 851, 658, 
 mDLL_RuntimeInit = 44, 58, 785, 571, 
 nCInterface = 34, 23, 775, 536, 
 nGlobals = 66, 87, 807, 600, 
-mWinAPI_Variant = 132, 174, 873, 687, C
+mWinAPI_Variant = 132, 174, 873, 687, 
 mWinAPI_Common = 22, 29, 763, 542, C
 mWinAPI_HResult = 176, 232, 917, 745, C
-mDB_Common = 176, 232, 917, 745, C
-nTDD = 22, 29, 763, 542, Z
+mDB_Common = 176, 232, 917, 745, 
+nTDD = 22, 29, 763, 542, 
 mBoiler_ProjectNameVB6 = 0, 0, 0, 0, C
 mDB_SafeArray = 110, 145, 851, 658, 
